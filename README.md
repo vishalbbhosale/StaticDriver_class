@@ -3,7 +3,7 @@
 This project created to execute all API's by using RestAssured,TestNG,Apachepoi and JSsonPath
 
 
-Features of dynamic driverclass project:-
+Features of static driverclass project:-
  1.Project is capebale to automate execution and validation; In Rest diffrent method are use like Post,Put,Patch,Get,Delete
 
  2.This project is done under this project we are use diffrent packages 
